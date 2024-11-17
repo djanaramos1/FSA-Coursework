@@ -1,0 +1,18 @@
+h2 {
+  display: inline-block;
+  background-color: #00e676;
+  color: white;
+  font-size: x-large;
+  padding: 15px 20px;
+}
+li {
+  color: #f1407b;
+  list-style-type: none;
+  font-size: medium;
+  background-color: #dcedc8;
+  padding: 5px;
+}
+img {
+  margin-top: 30px;
+  padding: 30px;
+}
