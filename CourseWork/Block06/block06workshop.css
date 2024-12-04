@@ -16,3 +16,6 @@ img {
   margin-top: 30px;
   padding: 30px;
 }
+.fruit {
+  display: flex;
+}
